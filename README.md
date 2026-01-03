@@ -14,11 +14,6 @@ To detect structural economic relationships, identifying which cities act as "pr
 
 ---
 
-## 👥 Group Members
-* **Muhammad Ahmed Abbas** (24i-3058)
-* **Rayyan Ahmed** (24i-0627)
-* **Muhammad Bilal Javed** (24i-0750)
-
 **Course:** Discrete Structures  
 **Instructor:** Arshad Islam  
 **Semester:** 3rd
