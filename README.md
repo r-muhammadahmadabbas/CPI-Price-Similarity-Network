@@ -15,7 +15,7 @@ To detect structural economic relationships, identifying which cities act as "pr
 ---
 
 **Course:** Discrete Structures  
-**Instructor:** Arshad Islam  
+**Instructor:** Dr. Arshad Islam  
 **Semester:** 3rd
 
 ---
